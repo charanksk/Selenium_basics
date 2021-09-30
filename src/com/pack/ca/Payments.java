@@ -6,6 +6,7 @@ public class Payments {
  {
 	 
 	 System.out.println("Please do payments");
+	 System.out.println("make payment");
  }
 
 }
